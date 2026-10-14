@@ -1,0 +1,23 @@
+{
+  "input_simulated": true,
+  "compiled_from_csharp": true,
+  "checks": {
+    "scene_loaded": true,
+    "car_created": true,
+    "forward_movement": true,
+    "brake_mapping": true,
+    "left_turn_mapping": true,
+    "right_turn_mapping": true,
+    "reverse_movement": true,
+    "handbrake_mapping": true,
+    "clutch_mapping": true,
+    "neutral_mapping": true,
+    "horn_mapping": true,
+    "no_runtime_errors": true,
+    "manual_build_restored": true
+  },
+  "sample_count": 336,
+  "max_speed_kmh": 40.5462,
+  "delivery_sha256": "6e82a53773e192542a151ce436051f1bd46f83ab482fc35f5c1589e42c7fab43",
+  "errors": []
+}

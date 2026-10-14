@@ -1,0 +1,40 @@
+namespace Scene
+{
+	public enum SceneType
+	{
+		MainScene,
+		Loading,
+		CourseThree,
+		HuNanYZCourseThree,
+		RenCaiCourseThree,
+		ChengDongCourseThree,
+		BaiYunCourseThree,
+		CourseTwo,
+		WenZhouCourseTwo,
+		HeBeiCourseTwo,
+		QingHuCourseTwo,
+		HuNanYZCourseTwo,
+		ShiJiaZhuangCourseTwo,
+		FoShanCourseTwo,
+		NanFengCourseTwo,
+		DFCourseTwo,
+		LightExam,
+		HaiJing,
+		XueJing,
+		ShanQu,
+		XiangCun,
+		TurnDrive,
+		City,
+		HighRoad,
+		ShenZhen,
+		YingjiXunlian,
+		YiandaCourseTwo,
+		Default,
+		Test,
+		XunLianScene,
+		ChengDong,
+		TaiZhouChangTan,
+		NightTest,
+		BadWeatherTest
+	}
+}
